@@ -54,10 +54,10 @@ export default function Footer() {
                     <div className="footer-top__contacts flex flex-col gap-6">
                       <div className="footer-top__contact">
                         <a
-                          href="tel:+1012345678"
+                          href="tel:+923330304317"
                           className="body-lg color-white"
                         >
-                          +1 012 345 678
+                          0333 0304317
                         </a>
                       </div>
                       <div className="footer-top__contact">
@@ -66,6 +66,26 @@ export default function Footer() {
                           className="body-lg color-white"
                         >
                           vita-travels@gmail.com
+                        </a>
+                      </div>
+                      <div className="footer-top__contact">
+                        <a
+                          href="https://www.instagram.com/karwanusmaneghani"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="body-lg color-white"
+                        >
+                          Instagram
+                        </a>
+                      </div>
+                      <div className="footer-top__contact">
+                        <a
+                          href="https://www.facebook.com/share/18dDdeS7u3/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="body-lg color-white"
+                        >
+                          Facebook
                         </a>
                       </div>
                     </div>

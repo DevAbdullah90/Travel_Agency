@@ -102,6 +102,19 @@ const packages: Package[] = [
     description:
       "A focused journey for solo pilgrims — shared rooms, group guidance, and a like-minded community.",
   },
+  {
+    id: "twenty-day-umrah",
+    title: "20 Day Umrah Package",
+    category: "Premium",
+    location: "Makkah & Madinah, Saudi Arabia",
+    duration: "20 days · 13 nights",
+    price: "PKR 245,000",
+    image: "/images/kaaba-hero.jpg",
+    tag: "Extended",
+    rating: "4.8",
+    description:
+      "7 nights at Hadaya Kubra 2 Hotel in Makkah with shuttle service, then 6 nights at Shaza Munawara Hotel in Madinah. Five room options from sharing to single.",
+  },
 ];
 
 function PackageCard({ pkg, index }: { pkg: Package; index: number }) {

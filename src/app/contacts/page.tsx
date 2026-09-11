@@ -19,14 +19,14 @@ const contactMethods = [
   {
     icon: "☎",
     title: "Call Us",
-    value: "+1 012 345 678",
-    href: "tel:+1012345678",
-    note: "Mon–Fri, 9am–6pm EST",
+    value: "0333 0304317",
+    href: "tel:+923330304317",
+    note: "Mon–Sat, 10am–7pm",
   },
   {
     icon: "◈",
     title: "Visit Us",
-    value: "Umrah Desk, Suite 12",
+    value: "RJ Mall, Lower Ground, Shop # LG-147, Gulshan-e-Iqbal, Karachi",
     href: "#",
     note: "By appointment only",
   },
